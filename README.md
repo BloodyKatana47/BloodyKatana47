@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .gif-container {
-            text-align: center;
-        }
-    </style>
-    <h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
-</head>
-<body>
+<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
     <div class="gif-container">
         <img src="[ссылка_на_ваш.gif](https://i.pinimg.com/originals/ed/a8/30/eda83085727b1d924e37c4b05a707d6c.gif)https://i.pinimg.com/originals/ed/a8/30/eda83085727b1d924e37c4b05a707d6c.gif">
     </div>
