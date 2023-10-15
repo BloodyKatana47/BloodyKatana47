@@ -1,4 +1,5 @@
 <h1 align="left">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
+<h3 align="left"> I am 17 y.o. junior backend developer
 
 
 ![Gif](dante.gif)
