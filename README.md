@@ -1,7 +1,18 @@
 <h1 align="left">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+</style>
 
 
-<img src="dante.gif" alt="Gif" align="center">
+
+<div class="center">
+  <img src="dante.gif" alt="Gif">
+</div>
 
 
 
