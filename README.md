@@ -1,7 +1,7 @@
 <h1 align="left">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
 
 
-![Gif](dante.gif)
+<img src="dante.gif" alt="Gif">
 
 
 
