@@ -1,4 +1,4 @@
-<h1 align="left">𝗪𝗲𝗹𝗰𝗼𝗺𝗲</h1>
+<h1 align="center">⚡ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 ⚡</h1>
 <h4 align="left">💻 I am a 17 y.o. junior backend developer</h4>
 <img src="dante.gif" alt="Gif" style="display: flex;
   justify-content: center;
