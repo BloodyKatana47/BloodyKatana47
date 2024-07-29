@@ -3,8 +3,8 @@
 <div style="text-align: center; height: 60vh;">
     <img src="dante.gif" alt="Gif">
 </div>
-<h3 style="text-align: center">🛠 Toolkits 🛠</h3>
 
+<h3 style="text-align: center">🛠 Toolkits 🛠</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
