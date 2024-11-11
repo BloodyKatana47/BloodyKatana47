@@ -1,8 +1,5 @@
 <h1 style="text-align: center;">⚡ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 ⚡</h1>
 <h4 style="text-align: center;">💻 18 y.o. backend dev</h4>
-<div style="text-align: center; height: 60vh;">
-    <img src="dante.gif" alt="Gif">
-</div>
 
 <h3 style="text-align: center">🛠 Toolkits 🛠</h3>
 <div style="display: flex; align-items: flex-start; align: center">
