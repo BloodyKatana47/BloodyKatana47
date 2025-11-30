@@ -2,22 +2,26 @@
 
 ### Hard skills
 
-- Python
-    - Web
-        - Django
-        - FastAPI
-        - Flask
-    - Telegram Bots
-        - Aiogram
-        - Pyrogram
-    - Databases
-        - Postgres
+- Langs
+    - Python
+        - Frameworks
+            - Django
+            - FastAPI
+            - Flask
+        - Telegram Bots
+            - Aiogram
+            - Pyrogram
+        - ORMs
+            - SQLAlchemy
+            - DjangoORM
+    - JS/TS
+        - Frameworks
+            - Hono
+- Databases
+    - Postgres
         - MongoDB
         - SQLite
         - Redis
-    - ORMs
-        - SQLAlchemy
-        - DjangoORM
 
 ### Codewars
 
